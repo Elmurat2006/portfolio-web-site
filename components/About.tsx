@@ -1,6 +1,6 @@
 import React from 'react'
-import {BiMedal} from 'react-icons/bi'
-import {GiRibbonMedal,GiDiploma} from 'react-icons/gi'
+
+import {GiRibbonMedal,GiDiploma,GiMedalSkull} from 'react-icons/gi'
 const About = () => {
   return (
     <>
