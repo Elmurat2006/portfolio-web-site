@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { GiRibbonMedal, GiDiploma, GiMedalSkull } from 'react-icons/gi'
+// import { GiRibbonMedal, GiDiploma, GiMedalSkull } from 'react-icons/gi'
 const About = () => {
   return (
     <>
@@ -11,7 +11,7 @@ const About = () => {
           style={{ backgroundColor: '#2E0348' }}
         >
           <h3 className="flex  items-center justify-center py-4 text-2xl">
-            Hackathon <GiMedalSkull />
+            Hackathon 
           </h3>
           <p className="flex items-center justify-center pb-4">
             Ogogo academy hackathon winner on UI/UX design
@@ -22,7 +22,7 @@ const About = () => {
           style={{ backgroundColor: '#2E0348' }}
         >
           <h3 className="flex  items-center justify-center py-4 text-2xl">
-            Olympiad <GiRibbonMedal />
+            Olympiad 
           </h3>
           <p className="flex items-center justify-center pb-4">
             1st place in the Olympiad in Informatics
@@ -33,7 +33,7 @@ const About = () => {
           style={{ backgroundColor: '#2E0348' }}
         >
           <h3 className="flex  items-center justify-center py-4 text-2xl">
-            Сourses <GiDiploma />
+            Сourses 
           </h3>
           <p className="flex items-center justify-center pb-4">
             completed UI/UX design courses at ogogo academy
